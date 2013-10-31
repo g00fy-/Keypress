@@ -689,7 +689,7 @@ _keycode_dictionary =
     18  : "alt"
     19  : "pause"
     20  : "caps"
-    27  : "escape"
+    27  : "esc"
     32  : "space"
     33  : "pageup"
     34  : "pagedown"
